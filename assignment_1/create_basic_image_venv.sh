@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VENVNAME=cv101 
+VENVNAME=basic_image_proc 
 
 python3 -m venv $VENVNAME
 source $VENVNAME/bin/activate
