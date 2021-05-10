@@ -1,6 +1,6 @@
 ## Assignment 1 - Basic image processing
 
-# DESCRIPTION
+### DESCRIPTION
 
 Basic scripting with Python
 
@@ -8,7 +8,7 @@ Create or find small dataset of images, using an online data source such as Kagg
 
 
 
-# Write a Python script which does the following:
+### Write a Python script which does the following:
 
 For each image, find the width, height, and number of channels
 For each image, split image into four equal-sized quadrants (i.e. top-left, top-right, bottom-left, bottom-right)
@@ -16,7 +16,7 @@ Save each of the split images in JPG format
 Create and save a file containing the filename, width, height for all of the new images.
 
 
-# General instructions
+### General instructions
 
 For this exercise, you can upload either a standalone script OR a Jupyter Notebook
 Save your script as basic_image_processing.py OR basic_image_processing.ipynb
@@ -27,7 +27,7 @@ Similarly, remember to use descriptive variable names! A name like width is more
 The filenames of the split images should clearly relate to the original image.
 
 
-# Purpose
+### Purpose
 
 This assignment is designed to test that you have a understanding of:
 
