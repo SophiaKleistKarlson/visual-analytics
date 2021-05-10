@@ -23,7 +23,7 @@ def main():
     ### __initial stuff__ ###
     
     # define path to the zip file
-    zip_path = os.path.join("..", "data", "img") 
+    zip_path = os.path.join("..", "assignment_2", "data", "img") 
 
     # set working directory to the zip path
     os.chdir(zip_path)
