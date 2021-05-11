@@ -91,7 +91,7 @@ def main():
     print(split_image_data) # inspect that the panda gives us the right output
 
     # make outpath to show where to save the data and what to call the csv
-    outpath = os.path.join("..", "data", "img", "homework_1", "basic_image_processing.csv")
+    outpath = os.path.join("..", "data", "out", "basic_image_processing.csv")
 
     # save the panda as a csv file
     split_image_data.to_csv(outpath)   
