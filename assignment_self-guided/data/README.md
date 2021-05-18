@@ -1,1 +1,1 @@
-
+The drawings in the all_drawings zipfolder were created by participants in a linear transmission study, where each participant copied 12 drawings that the previous participant had also copied (and so on). There were 20 chains of 7 generations in each, amounting to 140 participants in total, and 1680 produced images.
